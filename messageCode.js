@@ -3,7 +3,7 @@
 function sendMsg() {
     let request = new XMLHttpRequest();
 
-    request.open("POST", "https://discord.com/api/webhooks/828930728808/MR01ansXCnS0p7bPbuwcsgBBC68OVaMkYqCkbAmMF6Y_SnC8vzY7LISKPUkmk5btPFFI")
+    request.open("POST", "https://discord.com/api/webhooks/828930728874999808/MR01ansXCnS0p7bPbuwcsgBBC68OVaMkYqCkbAmMF6Y_SnC8vzY7LISKPUkmk5btPFFI")
     
     request.setRequestHeader("Content-type", "application/json");
 
@@ -20,7 +20,7 @@ function sendMsg() {
     function sendMsg2() {
     let request = new XMLHttpRequest();
 
-    request.open("POST", "https://discord.com/api/webhooks/82893072887499R01ansXCnS0p7bPbuwcgBBC68OVaMkYqCkbAmMF6Y_SnC8vzY7LISKPUkmk5btPFFI")
+    request.open("POST", "https://discord.com/api/webhooks/828930728874999808/MR01ansXCnS0p7bPbuwcsgBBC68OVaMkYqCkbAmMF6Y_SnC8vzY7LISKPUkmk5btPFFI")
     
     request.setRequestHeader("Content-type", "application/json");
 
@@ -38,7 +38,7 @@ function sendMsg() {
     function sendMsg3() {
     let request = new XMLHttpRequest();
 
-    request.open("POST", "https://discord.com/api/webhooks/828930728874999808/MR01a0p7bPbuwcsgBBC68OVaMkYqCkbAmMF6Y_SnC8vzY7LISKPUkmk5btPFFI")
+    request.open("POST", "https://discord.com/api/webhooks/828930728874999808/MR01ansXCnS0p7bPbuwcsgBBC68OVaMkYqCkbAmMF6Y_SnC8vzY7LISKPUkmk5btPFFI")
     
     request.setRequestHeader("Content-type", "application/json");
 
