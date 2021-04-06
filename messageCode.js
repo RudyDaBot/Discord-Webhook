@@ -52,5 +52,21 @@ function sendMsg() {
     request.send(JSON.stringify(params));
 
     };
+    function sendMsg4() {
+        let request = new XMLHttpRequest();
     
+        request.open("POST", "https://discord.com/api/webhooks/828953345329856552/AtYB_i8MmIGFf1pLGm8ZoXj6bPkZ-na9y5Gx7BzwJpg-TgBwP2nYk14lQdkpcN9h4kmK")
+        
+        request.setRequestHeader("Content-type", "application/json");
+    
+        let params = {
+            Username : "Pop Dog But He Is a Webhook",
+            avatar_url : "",
+            content : "|| @everyone || Announcement Made - Group Study Session is being held right now. You are requested to join."
+    
+        }
+    
+        request.send(JSON.stringify(params));
+    
+        };
     
